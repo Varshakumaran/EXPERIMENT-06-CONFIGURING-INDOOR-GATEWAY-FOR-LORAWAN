@@ -83,10 +83,16 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
+### Gateway :
+![Screenshot 2024-10-14 085655](https://github.com/user-attachments/assets/b58dca23-79d6-43d4-a252-c61792386242)
 
+### channel :
+![Screenshot 2024-10-14 085810](https://github.com/user-attachments/assets/61073844-7af8-4b82-bc50-de7d036430fb)
 
+### end device :
+![Screenshot 2024-10-14 085908](https://github.com/user-attachments/assets/9235db99-38bc-40fe-b202-5cc6939ac754)
 
 
 ## Results: 
-
+The Indoor Gateway for LORAWAN is successfully created
 
